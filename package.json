@@ -1,0 +1,34 @@
+{
+  "name": "realestate",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.0.2",
+    "@chakra-ui/react": "^1.8.8",
+    "@chakra-ui/system": "^2.0.2",
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@trendyol-js/react-carousel": "^3.0.0",
+    "axios": "^0.27.2",
+    "framer-motion": "^6.3.3",
+    "next": "12.1.6",
+    "nprogress": "^0.2.0",
+    "react": "18.1.0",
+    "react-chakra-slide-show": "^1.0.11",
+    "react-dom": "18.1.0",
+    "react-horizontal-scrolling-menu": "^2.7.2",
+    "react-icons": "^4.3.1",
+    "react-items-carousel": "^2.8.0",
+    "react-router-dom": "^6.3.0"
+  },
+  "devDependencies": {
+    "eslint": "8.15.0",
+    "eslint-config-next": "12.1.6"
+  }
+}
